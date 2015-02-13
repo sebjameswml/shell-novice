@@ -1,0 +1,33 @@
+These are notes I took from a meeting with Alex Cope in which we 
+discussed what changes we might make to the notes that are already 
+present on the software carpentry site.
+
+We need to make this content take about 1.5 hrs, including any time 
+during which participants are doing things themselves.
+
+We discussed "The things we really use the shell for" to work out what
+we'd like to be sure to incorporate.
+
+find, awk, grep, locate, sed (to a lesser extent), tail, echo, less, which
+
+What about regular expressions? At least a knowledge that they exist? 
+(this wasn't discussed in our meeting)
+
+We though we'd like to include something about permissions early on, as 
+permissions can easily catch out new users and confuse them.
+
+We also wanted to add sudo early on.
+
+We wanted to get across the concepts of what the shell was developed for 
+and why it remains a very popular way to interact with a computer 
+system.
+
+Cover & and &&, as well as job control.
+
+Cover bash history and searching it with Ctrl-r
+
+Cover network transparency - the fact that you can scp stuff so easily 
+and run arbitrary commands using ssh
+
+Work through some examples on the use of " and ' quotation marks and how 
+this means "no spaces in files"!
