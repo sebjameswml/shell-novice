@@ -9,6 +9,8 @@ minutes: 5
 > *   Explain how the shell relates to the keyboard, the screen, the operating system, and users' programs.
 > *   Explain when and why command-line interfaces should be used instead of graphical interfaces.
 
+(Seb to update this section)
+
 Nelle Nemo, a marine biologist,
 has just returned from a six-month survey of the
 [North Pacific Gyre](http://en.wikipedia.org/wiki/North_Pacific_Gyre),
